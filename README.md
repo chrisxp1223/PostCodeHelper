@@ -5,9 +5,8 @@ This project is a Python application that includes various utility functions and
 
 ## Project Structure
 ```
-my-python-project
+PostCodeHelper
 ├── src
-│   ├── main.py
 │   ├── parser.py
 │   └── utils
 │       └── helper.py
@@ -27,7 +26,7 @@ pip install -r requirements.txt
 To run the application, execute the following command:
 
 ```
-python src/main.py
+python src/parser.py
 ```
 
 ## Contributing
